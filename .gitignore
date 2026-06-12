@@ -1,0 +1,4 @@
+node_modules     ← the big library folder, never upload this
+dist             ← the built/compiled version of your app
+.DS_Store        ← Mac system files, useless to anyone else
+*.local          ← local environment variables, private config
